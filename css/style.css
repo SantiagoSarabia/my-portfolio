@@ -53,7 +53,7 @@ html, body {
                   width: 0;
             }
             to {
-                  width: 18em;
+                  width: 19em;
             }
       }
 }
@@ -368,7 +368,7 @@ h6{
   .project{
     width: 90% !important;
     margin: 14px auto;
-    height: 500px;
+    height: 400px;
   }
   .vertical{
     display: none;
