@@ -376,6 +376,9 @@ h6{
     top: 0;
     left: 0;
   }
+  .project1::after, .project2::after{
+        color: #000;
+      }
 }
 
 /* Footer section */
